@@ -91,7 +91,7 @@ If your company requires support for a new feature or technical support, [Contac
 
 Check out the [documentation](https://eyemail.manomite.net/docs). Eye-mail API is designed for simplicity.
 
-Please note that Eye-mail contain the update module which automatically updates Eye-mail packages and modules when its available. You can deactivate this settings from the config file user the system variables before completing installations. You can also perform this from the API.
+Please note that Eye-mail contain the update module which automatically updates Eye-mail packages and modules when its available. You can deactivate this settings from the config or from API.
 
 # Changelog
 
