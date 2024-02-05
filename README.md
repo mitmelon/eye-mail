@@ -48,7 +48,7 @@
 
 <h3>Stage 1</h3>
 
-Before you can use or install Eye-mail, make sure you must have installed this software below on your system and configure it for production use.
+Before you can use or install Eye-mail, make sure you have this softwares installed on your system and configure it for production use.
 
 |    Softwares                                                 | Version | Installation                                              |
 |--------------------------------------------------------------|---------|---------------------------------------------------------- |
