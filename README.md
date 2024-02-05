@@ -30,13 +30,13 @@
   - [ ] Provides useful insights on total blocked, total allowed on daily, weekly and yearly bases
   - [ ] Group messages based on their categories types
   - [ ] Inspect spam inbox for false positive messages and send them to main inbox
-  - [ ] Sends incoming mail notifications and others through push, sms, whatsapp and telegram [You can also implement your own notification module]
+  - [ ] Sends all mail notifications through push, sms, whatsapp and telegram [You can also implement your own notification module]
   - [ ] Blocks all phishing links and messages
   - [ ] Add recaptrics (recaptcha) for blocking bots
   - [ ] Add holiday days off (breaktime) - During this days messages will not be allowed entry if enabled
   - [ ] Add custom filters for allowing specific types of messages only
   - [ ] Clean inboxes from unwanted messages and junks
-  - [ ] Block illegal messages containing embeded trackings [privacy protections]
+  - [ ] Block illegal mail trackings [privacy protections]
   - [ ] Add encrypted vaults - [Keep highly confidential informations encrypted in your email vault and only decrypt it back with your offline keys.]
   - [ ] Proactively monitor your email address and phone number for malicious use or compromise and notify you immediately via your communication module
   - [ ] Add integrity check on all messages for alteration detections
