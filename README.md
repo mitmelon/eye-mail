@@ -1,5 +1,5 @@
 <h1 align="center">Eye-Mail
-<a href="#" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Eye-Mail - Advanced REST API email and sms security system that protects emails and sms inbox from spam and cyber threats. Perform email &amp; sms grouping, notifications and other interesting features."></a></h1>
+<a href="#" target="_blank"><img src="https://github.com/mitmelon/eye-mail/assets/55149512/c4f67659-a5c6-441e-b7d6-59b6bd47a404" alt="Eye-Mail - Advanced REST API email and sms security system that protects emails and sms inbox from spam and cyber threats. Perform email &amp; sms grouping, notifications and other interesting features."></a></h1>
 <div align="center">
 <a href="https://t.me/+7jfbiGKhn55iODlk">Join Telegram</a>
 <a href="https://twitter.com/manomitehq" ><img src="https://img.shields.io/twitter/follow/manomitehq.svg?style=social" /> </a>
@@ -41,7 +41,7 @@
   - [ ] Proactively monitor your email address and phone number for malicious use or compromise and notify you immediately via your communication module
   - [ ] Add integrity check on all messages for alteration detections
   - [ ] Backup all your email inboxes and sms - Default backup service is [Pangea, AWS and Digitalocean]
-  - [ ] :white_large_square: Easily export all or some of your emails to spreadsheets, pdf or image
+  - [ ] Easily export all or some of your emails to spreadsheets, pdf or image
 
 
 ## Installing Eye-mail
