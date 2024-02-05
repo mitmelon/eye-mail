@@ -12,7 +12,7 @@
 <a href="https://github.com/mitmelon/eye-mail/pulls"><img src="https://img.shields.io/github/issues-pr/mitmelon/eye-mail" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mitmelon/eye-mail/issues"><img src="https://img.shields.io/github/issues/mitmelon/eye-mail" alt="Issues Badge"/></a>
 <a href="https://github.com/mitmelon/eye-mail/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mitmelon/eye-mail?color=2b9348"></a>
-<a href="https://github.com/mitmelon/eye-mail/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mitmelon/eye-mail?color=2b9348" alt="License Badge"/></a> [![Total Downloads](http://poser.pugx.org/mitmelon/eye-mail/downloads)](https://packagist.org/packages/mitmelon/eye-mail) [![License](http://poser.pugx.org/mitmelon/eye-mail/license)](https://packagist.org/packages/mitmelon/eye-mail)
+<a href="https://github.com/mitmelon/eye-mail/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mitmelon/eye-mail?color=2b9348" alt="License Badge"/></a> [![Total Downloads](http://poser.pugx.org/mitmelon/eye-mail/downloads)](https://packagist.org/packages/mitmelon/eye-mail)
 
 <i>Loved the project? Please consider [donating](https://paypal.me/mitmelon) to help it improve!</i>
 
