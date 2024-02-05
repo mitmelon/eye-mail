@@ -64,7 +64,7 @@ You must choose a version that fits the requirements of your project. The differ
 
 |                                                              | PHP     | Support                  |
 |--------------------------------------------------------------|---------|--------------------------|
-| Eye-mail 1.0 and newer                                       | > 8.1.0 | heavy_check_mark: Active |
+| Eye-mail 1.0 and newer                                       | 8.1.0   | heavy_check_mark: Active |
 
 Note: Eye-mail 1.0.x works on PHP greater than 8.1.
 
