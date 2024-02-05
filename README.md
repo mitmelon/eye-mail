@@ -5,7 +5,7 @@
 <a href="https://twitter.com/manomitehq" ><img src="https://img.shields.io/twitter/follow/manomitehq.svg?style=social" /> </a>
 <br>
 
-<i>Advanced REST API email and sms security system that protects emails and sms inbox from spam and cyber threats. Perform email &amp; sms grouping, notifications and other interesting features.</i>
+<i>Intelligent email and sms security system that protects inboxes from spam and cyber threats. Perform email &amp; sms grouping, notifications and other interesting features.</i>
 
 <a href="https://github.com/mitmelon/eye-mail/stargazers"><img src="https://img.shields.io/github/stars/mitmelon/eye-mail" alt="Stars Badge"/></a>
 <a href="https://github.com/mitmelon/eye-mail/network/members"><img src="https://img.shields.io/github/forks/mitmelon/eye-mail" alt="Forks Badge"/></a>
@@ -18,7 +18,7 @@
 
 </div>
 
-<p>Your email and sms inbox is your bank and identity. You should keep your email and mobile sms safe by all means because it could leak all your confidential informations to hackers or compromise all your accounts linked to the email or phone number.</p>
+<p>Your email and sms inbox is your bank account and identity. You should keep your inboxes safe by all means because it could leak all your confidential informations to hackers or compromise all your accounts linked to the email or phone number.</p>
 
 <p>Eye-mail does not read or disclose your messages to anyone as you are in charge. Your privacy is protected. If you are using the backup feature, all your messages are encrypted using your offline private key before transfering to the backup cloud </p>
 
@@ -81,16 +81,17 @@ Open the [Config](settings/config.env) and configure settings such as;
 - Set environment to => production
 - Security Variables
 - System Variables
+- Backup Variables
 
 ### Commercial Support
 
-If your company requires support for a new feature or technical updates, [contact Manomite](https://manomite.net/contact) to inquire about commercial support options.
+If your company requires support for a new feature or technical support, [Contact Manomite](https://manomite.net/contact) to inquire about commercial support options.
 
 ## Using Eye-mail in Your Project
 
-Check out the [documentation](https://eyemail.manomite.net/docs). Eye-mail API is designed for simplicity:
+Check out the [documentation](https://eyemail.manomite.net/docs). Eye-mail API is designed for simplicity.
 
-Please note that Eye-mail contain the update module which automatically updates Eye-mail packages and modules when its available. You can deactivate this settings from the config file.
+Please note that Eye-mail contain the update module which automatically updates Eye-mail packages and modules when its available. You can deactivate this settings from the config file user the system variables before completing installations. You can also perform this from the API.
 
 # Changelog
 
